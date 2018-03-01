@@ -1,3 +1,7 @@
+# Reflections
+## 3/1/18
+This week we talked about XML. WE talked about how it is a mark-up language and how that is different from a mark-down language. We learned more about git hub. We figured out how to add all of our reflections in to putty and transfer it into git hub. Now we can add anything that we have made into git hub for our project.
+
 # Reflection 5
 ## 2/23/18
 This week we learned all sorts of new commands for putty. I think this will be a building block for more advanced things to come. The next thing we did was linking our git hub account with putty so we can transfer our projects in. I think I will be ready for more difficult things as I completed the project with relative ease. With our accounts now we are ready to learn how to do our Google Friday projects.
