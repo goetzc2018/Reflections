@@ -1,4 +1,4 @@
-# Reflections
+# Reflection 6
 ## 3/1/18
 This week we talked about XML. WE talked about how it is a mark-up language and how that is different from a mark-down language. We learned more about git hub. We figured out how to add all of our reflections in to putty and transfer it into git hub. Now we can add anything that we have made into git hub for our project.
 
