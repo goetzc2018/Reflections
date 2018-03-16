@@ -1,3 +1,7 @@
+# Reflection 8
+## 3/16/18
+RThis week we started a pet project where we have to create a page on putty to transfer to our chrome web browser. I added things to do to my trello board. We downloaded a new program called SCPWin. This program is to help us move pictures onto our page about our pet. I also picked the language I will use for my google friday project.
+
 # Reflection 7
 ## 3/9/18
 This week we mainly just worked on our XML project. It helped us to be able to type code quickly so we will be ready for our google friday project. The reason we started with XML because it is very similar to HTML so it will not be that hard when we have to use it. We also learned how to sort the different things with the commands in XML.
@@ -20,4 +24,4 @@ This week I learned more about how messages and certain things get transferred f
 
 # Reflection 1
 ## 1/29/18
-This week in computer fundamentals 2 we pretty much just reviewed to make sure everyone was prepared to take the class. One thing we went bac# Reflections
+This week in computer fundamentals 2 we pretty much just reviewed to make sure everyone was prepared to take the class. One thing we went bac#
