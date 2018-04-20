@@ -1,3 +1,7 @@
+# Reflection 10
+## 4/20/18
+This week we got assigned our Profile project. I have downloaded the bootstrap file to organize our page for it. Once I get the file in my profile I will have to edit the format to fit my style. I also finished up my pizza project this week. I put in the remainder of the divs and other things but still struggled to get my pictures to show up. However I did get the divs in which was a step up from before.
+
 # Reflection 8
 ## 3/16/18
 RThis week we started a pet project where we have to create a page on putty to transfer to our chrome web browser. I added things to do to my trello board. We downloaded a new program called SCPWin. This program is to help us move pictures onto our page about our pet. I also picked the language I will use for my google friday project.
