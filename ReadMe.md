@@ -1,5 +1,9 @@
-#Reflection 10
-#4/13/18
+# Reflection 11
+## 4/26/18
+One of the big things that happened this week is that I got most of my google friday project done. I also learned much more about Boot Strap and how to actually go inside it and change things. I learned how to put it in my html files so I can make a professional looking site. This will also help me with doing my profile project. It is the same type of format as my google friday which should make it easier. We also did code academy which helped us to learn a little more about the rules of boot strap.
+
+# Reflection 10
+## 4/13/18
 This week we worked heavily on our pizza project. We talked a little bit about about boot strap and how to implement it. We had to add pictures onto our pizza project. We were taught how to layout our pizza projects to make them look nic and proffesional. We also worked on our google friday. I spent a lot of time trying to learn to make python for google friday.
 
 # Reflection 9
