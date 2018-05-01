@@ -1,3 +1,7 @@
+# Reflection 11
+##5/1/18
+Today I worked on my Profile project and how to integrate the boot strap. I renamed my folders and files. I also began moving over elements of the boot strap to other files for my liking. I should have the project done soon when I put in my awards.
+
 # Reflection 10
 ## 4/20/18
 This week we got assigned our Profile project. I have downloaded the bootstrap file to organize our page for it. Once I get the file in my profile I will have to edit the format to fit my style. I also finished up my pizza project this week. I put in the remainder of the divs and other things but still struggled to get my pictures to show up. However I did get the divs in which was a step up from before.
