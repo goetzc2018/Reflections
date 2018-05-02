@@ -1,3 +1,7 @@
+# Reflection 12
+## 5/2/18
+Today I finished up my Profile project and turned it in. the last thing I had to do was name the different pages of my awards. I also added in a couple more recipes into my Cook Book for google friday.
+
 # Reflection 11
 ##5/1/18
 Today I worked on my Profile project and how to integrate the boot strap. I renamed my folders and files. I also began moving over elements of the boot strap to other files for my liking. I should have the project done soon when I put in my awards.
