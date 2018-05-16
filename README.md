@@ -1,3 +1,20 @@
+# Reflection 16
+## 5/11/18
+This weeek we spent time learning about java script. This is probably preparing us for a project we will have to do with javascript. We learned how to create different types of pop-ups and how to use them.I also spent a lot of time working on google friday. It is finally starting to come together and start to look like a real site. 
+
+
+# Reflection 15
+## 5/5/18
+Today I went looking for more recipes. I filled up my pasta.html in my project.
+
+# Reflection 14
+## 5/4/18
+Today I added more htmls into my folder. This is so I can include my recipes.
+
+# Reflection 13
+## 5/3/18
+Today I went back to working on google friday. I looked up different dishes and puth them in Beef.html.
+
 # Reflection 12
 ## 5/2/18
 Today I finished up my Profile project and turned it in. the last thing I had to do was name the different pages of my awards. I also added in a couple more recipes into my Cook Book for google friday.
