@@ -1,3 +1,7 @@
+# Reflection 17
+## 5/18/18
+This week we spent the whole time learning javascript. First we used popups to be able to type things into them. Then we learned to use the words typed into the popup to put them into the pragraph. Then we typed our story for the Mad Lib.After that we fooled around with other peoples md libs and worked onj google friday.
+
 # Reflection 16
 ## 5/11/18
 This weeek we spent time learning about java script. This is probably preparing us for a project we will have to do with javascript. We learned how to create different types of pop-ups and how to use them.I also spent a lot of time working on google friday. It is finally starting to come together and start to look like a real site. 
