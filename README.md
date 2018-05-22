@@ -1,6 +1,6 @@
 # Reflection 17
 ## 5/18/18
-This week we spent the whole time learning javascript. First we used popups to be able to type things into them. Then we learned to use the words typed into the popup to put them into the pragraph. Then we typed our story for the Mad Lib.After that we fooled around with other peoples md libs and worked onj google friday.
+At the begining of the semester I did not know anything about code. Everything we are doing now looked foreign to me. We focused on html for most of the semester so we could master it. The pizza project was tough for me, but helped me with html. Then we used boot strap which I was able to use pretty well. So well in fact, that I decided to use it for my google friday. Then we moved on to java script which was fun because we got make Mad Libs.
 
 # Reflection 16
 ## 5/11/18
